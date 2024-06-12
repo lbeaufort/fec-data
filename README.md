@@ -25,7 +25,7 @@ https://www.fec.gov/data/browse-data/?tab=bulk-data
 - User-friendly .txt file format
 
 
-**Full database export**
+**Full database table exports**
 https://www.fec.gov/files/bulk-downloads/index.html then look for 
 /data_dump/ → /schedules/ and  README.md
 
