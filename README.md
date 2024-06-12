@@ -13,7 +13,7 @@ https://api.open.fec.gov/
 - Not suitable for retrieving large data sets
 
 
-### Other ways to get FEC data
+### Other ways to get FEC data
 
 **Bulk downloads**
 fec.gov → Campaign Finance Data→ Bulk Data
