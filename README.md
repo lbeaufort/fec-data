@@ -27,7 +27,7 @@ https://www.fec.gov/data/browse-data/?tab=bulk-data
 
 **Full database table exports**
 https://www.fec.gov/files/bulk-downloads/index.html then look for 
-/data_dump/ → /schedules/ and  README.md
+`/data_dump/` → `/schedules/` and  `README.md`
 
 - Highly technical approach
 - Need a PostgreSQL database for import 
